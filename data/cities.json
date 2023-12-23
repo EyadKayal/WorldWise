@@ -1,0 +1,1008 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🚩",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🏁",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🏁",
+      "date": "2023-09-26T13:32:05.871Z",
+      "notes": "amazing 😎",
+      "position": {
+        "lat": "52.51955958154855",
+        "lng": "13.382998960519206"
+      },
+      "id": 73930386
+    },
+    {
+      "cityName": "Marchamalo",
+      "country": "Spain",
+      "date": "2023-09-27T12:43:56.365Z",
+      "notes": "",
+      "position": {
+        "lat": "40.69954623091387",
+        "lng": "-3.23161621173894"
+      },
+      "id": 73930387
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2023-09-27T13:08:04.005Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43268390139604",
+        "lng": "-3.758408376668701"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "date": "2023-09-27T13:08:10.681Z",
+      "notes": "",
+      "position": {
+        "lat": "38.77778815548359",
+        "lng": "-9.157559894229959"
+      },
+      "id": 73930389
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "date": "2023-09-27T13:08:55.322Z",
+      "notes": "",
+      "position": {
+        "lat": "40.415262459663936",
+        "lng": "-3.716199011333197"
+      },
+      "id": 73930390
+    },
+    {
+      "cityName": "Beteta",
+      "country": "Spain",
+      "date": "2023-09-27T13:12:26.298Z",
+      "notes": "",
+      "position": {
+        "lat": "40.532239164507416",
+        "lng": "-1.8928787655830264"
+      },
+      "id": 73930391
+    },
+    {
+      "cityName": "Chaves",
+      "country": "Portugal",
+      "date": "2023-09-27T13:13:17.259Z",
+      "notes": "",
+      "position": {
+        "lat": "41.6088170502284",
+        "lng": "-7.582931263857801"
+      },
+      "id": 73930392
+    },
+    {
+      "cityName": "Santa Maria la Real de Nieva",
+      "country": "Spain",
+      "date": "2023-09-27T13:14:53.273Z",
+      "notes": "",
+      "position": {
+        "lat": "40.9984632303234",
+        "lng": "-4.464820166881299"
+      },
+      "id": 73930393
+    },
+    {
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "date": "2023-09-27T13:15:01.449Z",
+      "notes": "",
+      "position": {
+        "lat": "39.31956683791819",
+        "lng": "-4.94740316110118"
+      },
+      "id": 73930394
+    },
+    {
+      "cityName": "Sale",
+      "country": "Morocco",
+      "date": "2023-09-27T13:15:05.520Z",
+      "notes": "",
+      "position": {
+        "lat": "34.00127274239343",
+        "lng": "-6.792791114772045"
+      },
+      "id": 73930395
+    },
+    {
+      "cityName": "Oencia",
+      "country": "Spain",
+      "date": "2023-09-27T15:25:56.508Z",
+      "notes": "",
+      "position": {
+        "lat": "42.57050246905782",
+        "lng": "-7.033309691717683"
+      },
+      "id": 73930396
+    },
+    {
+      "cityName": "Latakia",
+      "country": "Syrian Arab Republic (the)",
+      "date": "2023-10-03T07:45:51.492Z",
+      "notes": "",
+      "position": {
+        "lat": "35.49947246151594",
+        "lng": "35.82558234626834"
+      },
+      "id": 73930397
+    },
+    {
+      "cityName": "Benghazi",
+      "country": "Libya",
+      "date": "2023-10-03T07:46:37.106Z",
+      "notes": "",
+      "position": {
+        "lat": "31.960201475086276",
+        "lng": "20.026661470496958"
+      },
+      "id": 73930400
+    },
+    {
+      "cityName": "Gulf of Hammamet",
+      "country": "Tunisia",
+      "date": "2023-10-03T07:46:40.915Z",
+      "notes": "",
+      "position": {
+        "lat": "36.392817965367804",
+        "lng": "10.798005769350675"
+      },
+      "id": 73930401
+    },
+    {
+      "cityName": "Mediterranean Sea",
+      "country": "Algeria",
+      "date": "2023-10-03T07:46:44.290Z",
+      "notes": "",
+      "position": {
+        "lat": "36.746633173667064",
+        "lng": "2.7996787420581097"
+      },
+      "id": 73930402
+    },
+    {
+      "cityName": "Strait of Gibraltar",
+      "country": "Spain",
+      "date": "2023-10-03T07:46:53.075Z",
+      "notes": "",
+      "position": {
+        "lat": "35.96823937213844",
+        "lng": "-5.551711601087451"
+      },
+      "id": 73930403
+    },
+    {
+      "cityName": "Moyamba",
+      "country": "Sierra Leone",
+      "date": "2023-10-03T07:47:05.804Z",
+      "notes": "",
+      "position": {
+        "lat": "7.979758269681532",
+        "lng": "-12.61747464203248"
+      },
+      "id": 73930404
+    },
+    {
+      "cityName": "Brikama",
+      "country": "Gambia (the)",
+      "date": "2023-10-03T07:47:09.194Z",
+      "notes": "",
+      "position": {
+        "lat": "13.286304570089381",
+        "lng": "-16.398062218666055"
+      },
+      "id": 73930405
+    },
+    {
+      "cityName": "Port-Gentil",
+      "country": "Gabon",
+      "date": "2023-10-03T07:47:17.795Z",
+      "notes": "",
+      "position": {
+        "lat": "-0.826888172105103",
+        "lng": "8.995684794824703"
+      },
+      "id": 73930406
+    },
+    {
+      "cityName": "False Bay",
+      "country": "South Africa",
+      "date": "2023-10-03T07:47:42.689Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.1875985446587",
+        "lng": "18.799041413176784"
+      },
+      "id": 73930407
+    },
+    {
+      "cityName": "Matutuine District",
+      "country": "Mozambique",
+      "date": "2023-10-03T07:47:51.042Z",
+      "notes": "",
+      "position": {
+        "lat": "-26.371159856521878",
+        "lng": "32.8438046316313"
+      },
+      "id": 73930408
+    },
+    {
+      "cityName": "Comoros (the)",
+      "country": "Comoros (the)",
+      "date": "2023-10-03T07:47:55.619Z",
+      "notes": "",
+      "position": {
+        "lat": "-12.169113688180557",
+        "lng": "44.532247207290304"
+      },
+      "id": 73930409
+    },
+    {
+      "cityName": "Bagamoyo",
+      "country": "Tanzania, the United Republic of",
+      "date": "2023-10-03T07:48:05.586Z",
+      "notes": "",
+      "position": {
+        "lat": "-6.641592585175629",
+        "lng": "38.49380393318485"
+      },
+      "id": 73930410
+    },
+    {
+      "cityName": "Mogadishu",
+      "country": "Somalia",
+      "date": "2023-10-03T07:48:09.898Z",
+      "notes": "",
+      "position": {
+        "lat": "2.0874413738560795",
+        "lng": "45.45617935720448"
+      },
+      "id": 73930411
+    },
+    {
+      "cityName": "Ceerigaabo",
+      "country": "Somalia",
+      "date": "2023-10-03T07:48:17.482Z",
+      "notes": "",
+      "position": {
+        "lat": "10.704298345740956",
+        "lng": "47.303048115850295"
+      },
+      "id": 73930412
+    },
+    {
+      "cityName": "Sadḩ",
+      "country": "Oman",
+      "date": "2023-10-03T07:48:26.890Z",
+      "notes": "",
+      "position": {
+        "lat": "17.414410351744305",
+        "lng": "55.233791268796026"
+      },
+      "id": 73930413
+    },
+    {
+      "cityName": "Muscat",
+      "country": "Oman",
+      "date": "2023-10-03T07:48:31.004Z",
+      "notes": "",
+      "position": {
+        "lat": "23.544751488410167",
+        "lng": "58.42090701246018"
+      },
+      "id": 73930414
+    },
+    {
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "date": "2023-10-03T07:48:35.467Z",
+      "notes": "",
+      "position": {
+        "lat": "24.629025161140493",
+        "lng": "54.84089987859976"
+      },
+      "id": 73930415
+    },
+    {
+      "cityName": "Qatar",
+      "country": "Qatar",
+      "date": "2023-10-03T07:48:38.754Z",
+      "notes": "",
+      "position": {
+        "lat": "24.86866496371414",
+        "lng": "51.54494140846561"
+      },
+      "id": 73930416
+    },
+    {
+      "cityName": "Jeddah",
+      "country": "Saudi Arabia",
+      "date": "2023-10-03T07:48:51.330Z",
+      "notes": "",
+      "position": {
+        "lat": "21.556900768076936",
+        "lng": "39.15483891526285"
+      },
+      "id": 73930417
+    },
+    {
+      "cityName": "Aqaba",
+      "country": "Jordan",
+      "date": "2023-10-03T07:49:03.697Z",
+      "notes": "",
+      "position": {
+        "lat": "29.517405097804385",
+        "lng": "35.007695154411"
+      },
+      "id": 73930418
+    },
+    {
+      "cityName": "Ras el Metn",
+      "country": "Lebanon",
+      "date": "2023-10-03T07:49:09.186Z",
+      "notes": "",
+      "position": {
+        "lat": "33.854201707503016",
+        "lng": "35.65798554538669"
+      },
+      "id": 73930419
+    },
+    {
+      "cityName": "Asia/Nicosia",
+      "country": "Cyprus",
+      "date": "2023-10-03T07:49:18.361Z",
+      "notes": "",
+      "position": {
+        "lat": "34.815595955060864",
+        "lng": "33.68087171404501"
+      },
+      "id": 73930420
+    },
+    {
+      "cityName": "Lavrio",
+      "country": "Greece",
+      "date": "2023-10-03T07:49:28.314Z",
+      "notes": "",
+      "position": {
+        "lat": "37.703478716606305",
+        "lng": "24.062617752389688"
+      },
+      "id": 73930421
+    },
+    {
+      "cityName": "Athens",
+      "country": "Greece",
+      "date": "2023-10-03T07:49:30.957Z",
+      "notes": "",
+      "position": {
+        "lat": "37.93355657979573",
+        "lng": "23.677913043412637"
+      },
+      "id": 73930422
+    },
+    {
+      "cityName": "Euboea regional unit",
+      "country": "Greece",
+      "date": "2023-10-03T07:49:44.250Z",
+      "notes": "",
+      "position": {
+        "lat": "38.386943099704894",
+        "lng": "23.974634487783742"
+      },
+      "id": 73930423
+    },
+    {
+      "cityName": "Izmir",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:49:52.193Z",
+      "notes": "",
+      "position": {
+        "lat": "38.4154200726609",
+        "lng": "27.13485757942462"
+      },
+      "id": 73930424
+    },
+    {
+      "cityName": "Aliaga",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:05.906Z",
+      "notes": "",
+      "position": {
+        "lat": "38.803300730736",
+        "lng": "26.98760192234323"
+      },
+      "id": 73930425
+    },
+    {
+      "cityName": "Canakkale",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:10.434Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99021304396352",
+        "lng": "26.218525989166523"
+      },
+      "id": 73930426
+    },
+    {
+      "cityName": "Gonen",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:13.612Z",
+      "notes": "",
+      "position": {
+        "lat": "40.300872865573325",
+        "lng": "27.54699996841692"
+      },
+      "id": 73930427
+    },
+    {
+      "cityName": "Izmit",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:20.794Z",
+      "notes": "",
+      "position": {
+        "lat": "40.75980725090025",
+        "lng": "29.937304303273102"
+      },
+      "id": 73930428
+    },
+    {
+      "cityName": "Yalova",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:27.139Z",
+      "notes": "",
+      "position": {
+        "lat": "40.657860812816985",
+        "lng": "29.27985841526344"
+      },
+      "id": 73930429
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:30.274Z",
+      "notes": "",
+      "position": {
+        "lat": "40.80973350234639",
+        "lng": "29.29893065585723"
+      },
+      "id": 73930430
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:50:50.979Z",
+      "notes": "",
+      "position": {
+        "lat": "41.00588347667202",
+        "lng": "28.9419603506964"
+      },
+      "id": 73930431
+    },
+    {
+      "cityName": "Mersin",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:51:01.331Z",
+      "notes": "",
+      "position": {
+        "lat": "36.787721797198344",
+        "lng": "34.62261550935577"
+      },
+      "id": 73930432
+    },
+    {
+      "cityName": "Iskenderun",
+      "country": "Turkiye",
+      "date": "2023-10-03T07:51:03.826Z",
+      "notes": "",
+      "position": {
+        "lat": "36.55872906386895",
+        "lng": "36.16572435528431"
+      },
+      "id": 73930433
+    },
+    {
+      "cityName": "Boussit",
+      "country": "Lebanon",
+      "date": "2023-10-03T07:51:13.579Z",
+      "notes": "",
+      "position": {
+        "lat": "34.45278493847687",
+        "lng": "35.93417636768127"
+      },
+      "id": 73930434
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2023-10-03T07:51:17.668Z",
+      "notes": "",
+      "position": {
+        "lat": "30.052133808827193",
+        "lng": "31.233368659009944"
+      },
+      "id": 73930435
+    },
+    {
+      "cityName": "Suez",
+      "country": "Egypt",
+      "date": "2023-10-03T07:51:22.042Z",
+      "notes": "",
+      "position": {
+        "lat": "29.946496547001114",
+        "lng": "32.561343616989234"
+      },
+      "id": 73930436
+    },
+    {
+      "cityName": "Khambhaliya",
+      "country": "India",
+      "date": "2023-10-03T07:51:44.747Z",
+      "notes": "",
+      "position": {
+        "lat": "22.287974459573284",
+        "lng": "69.52083723718367"
+      },
+      "id": 73930437
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "date": "2023-10-03T07:51:48.770Z",
+      "notes": "",
+      "position": {
+        "lat": "19.467649145708386",
+        "lng": "72.84854653493115"
+      },
+      "id": 73930438
+    },
+    {
+      "cityName": "Visakhapatnam",
+      "country": "India",
+      "date": "2023-10-03T07:52:02.250Z",
+      "notes": "",
+      "position": {
+        "lat": "17.71703985623055",
+        "lng": "83.25138861118472"
+      },
+      "id": 73930439
+    },
+    {
+      "cityName": "Kavali",
+      "country": "India",
+      "date": "2023-10-03T07:52:07.146Z",
+      "notes": "",
+      "position": {
+        "lat": "14.87228543263567",
+        "lng": "79.91347841227535"
+      },
+      "id": 73930440
+    },
+    {
+      "cityName": "Tebing",
+      "country": "Indonesia",
+      "date": "2023-10-03T07:52:24.418Z",
+      "notes": "",
+      "position": {
+        "lat": "1.1054050550772134",
+        "lng": "103.50393499409648"
+      },
+      "id": 73930441
+    },
+    {
+      "cityName": "Ho Chi Minh City",
+      "country": "Viet Nam",
+      "date": "2023-10-03T07:52:33.658Z",
+      "notes": "",
+      "position": {
+        "lat": "10.4133480493018",
+        "lng": "106.8073793196171"
+      },
+      "id": 73930442
+    },
+    {
+      "cityName": "Zhanjiang",
+      "country": "China",
+      "date": "2023-10-03T07:52:44.658Z",
+      "notes": "",
+      "position": {
+        "lat": "21.248334427893575",
+        "lng": "110.40664584985257"
+      },
+      "id": 73930443
+    },
+    {
+      "cityName": "Putian",
+      "country": "China",
+      "date": "2023-10-03T07:52:52.026Z",
+      "notes": "",
+      "position": {
+        "lat": "25.424203816709905",
+        "lng": "119.22156490234286"
+      },
+      "id": 73930444
+    },
+    {
+      "cityName": "Partido de San Nicolas",
+      "country": "Argentina",
+      "date": "2023-10-03T07:53:40.419Z",
+      "notes": "",
+      "position": {
+        "lat": "-33.35788979225475",
+        "lng": "-60.18361914099955"
+      },
+      "id": 73930445
+    },
+    {
+      "cityName": "Santos",
+      "country": "Brazil",
+      "date": "2023-10-03T07:54:00.514Z",
+      "notes": "",
+      "position": {
+        "lat": "-23.956498745673645",
+        "lng": "-46.31965347149311"
+      },
+      "id": 73930446
+    },
+    {
+      "cityName": "Venice",
+      "country": "Italy",
+      "date": "2023-10-03T07:54:17.802Z",
+      "notes": "",
+      "position": {
+        "lat": "45.432798347858075",
+        "lng": "12.396693397017598"
+      },
+      "id": 73930447
+    },
+    {
+      "cityName": "Sibenik",
+      "country": "Croatia",
+      "date": "2023-10-03T07:55:09.171Z",
+      "notes": "",
+      "position": {
+        "lat": "43.6992728146599",
+        "lng": "15.890533153203371"
+      },
+      "id": 73930448
+    },
+    {
+      "cityName": "Korinthos",
+      "country": "Greece",
+      "date": "2023-10-03T07:55:29.155Z",
+      "notes": "",
+      "position": {
+        "lat": "37.943150721393685",
+        "lng": "22.97170805484017"
+      },
+      "id": 73930449
+    },
+    {
+      "cityName": "Novorossiysk",
+      "country": "Russian Federation (the)",
+      "date": "2023-10-03T07:55:48.763Z",
+      "notes": "",
+      "position": {
+        "lat": "44.71170009900667",
+        "lng": "37.76980374907685"
+      },
+      "id": 73930450
+    },
+    {
+      "cityName": "Kerch",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:55:54.490Z",
+      "notes": "",
+      "position": {
+        "lat": "45.30974855971112",
+        "lng": "36.468954426483435"
+      },
+      "id": 73930451
+    },
+    {
+      "cityName": "Feodosiya",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:55:58.482Z",
+      "notes": "",
+      "position": {
+        "lat": "44.906633529391925",
+        "lng": "35.185827235556026"
+      },
+      "id": 73930452
+    },
+    {
+      "cityName": "Odesa",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:56:38.114Z",
+      "notes": "",
+      "position": {
+        "lat": "46.475911274777076",
+        "lng": "30.73379535944241"
+      },
+      "id": 73930453
+    },
+    {
+      "cityName": "Mariupol",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:56:47.035Z",
+      "notes": "",
+      "position": {
+        "lat": "47.09243138500313",
+        "lng": "37.55266368158378"
+      },
+      "id": 73930454
+    },
+    {
+      "cityName": "Constanţa",
+      "country": "Romania",
+      "date": "2023-10-03T07:56:54.994Z",
+      "notes": "",
+      "position": {
+        "lat": "44.18321355220392",
+        "lng": "28.64154538103672"
+      },
+      "id": 73930455
+    },
+    {
+      "cityName": "Mykolayiv",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:57:05.546Z",
+      "notes": "",
+      "position": {
+        "lat": "46.967859724618734",
+        "lng": "31.97497770005907"
+      },
+      "id": 73930456
+    },
+    {
+      "cityName": "Kostyantynivka",
+      "country": "Ukraine",
+      "date": "2023-10-03T07:57:09.082Z",
+      "notes": "",
+      "position": {
+        "lat": "47.182302218657675",
+        "lng": "31.850537880565316"
+      },
+      "id": 73930457
+    },
+    {
+      "cityName": "Buea",
+      "country": "Cameroon",
+      "date": "2023-10-03T07:57:56.250Z",
+      "notes": "",
+      "position": {
+        "lat": "4.073736469946244",
+        "lng": "9.20239892999621"
+      },
+      "id": 73930458
+    },
+    {
+      "cityName": "Ceuta",
+      "country": "Spain",
+      "date": "2023-10-03T07:58:23.370Z",
+      "notes": "",
+      "position": {
+        "lat": "35.885173284178826",
+        "lng": "-5.312495870997972"
+      },
+      "id": 73930459
+    },
+    {
+      "cityName": "Gdyel",
+      "country": "Algeria",
+      "date": "2023-10-03T07:58:32.555Z",
+      "notes": "",
+      "position": {
+        "lat": "35.81815692992737",
+        "lng": "-0.46356783870003637"
+      },
+      "id": 73930460
+    },
+    {
+      "cityName": "Bejaia",
+      "country": "Algeria",
+      "date": "2023-10-03T07:58:39.667Z",
+      "notes": "",
+      "position": {
+        "lat": "36.76117228590335",
+        "lng": "5.040555036967671"
+      },
+      "id": 73930461
+    },
+    {
+      "cityName": "Annaba",
+      "country": "Algeria",
+      "date": "2023-10-03T07:58:44.266Z",
+      "notes": "",
+      "position": {
+        "lat": "36.893260371926516",
+        "lng": "7.760305342603041"
+      },
+      "id": 73930462
+    },
+    {
+      "cityName": "Sousse",
+      "country": "Tunisia",
+      "date": "2023-10-03T07:58:49.788Z",
+      "notes": "",
+      "position": {
+        "lat": "35.805187467529514",
+        "lng": "10.633195128253991"
+      },
+      "id": 73930463
+    },
+    {
+      "cityName": "Sfax",
+      "country": "Tunisia",
+      "date": "2023-10-03T07:58:53.930Z",
+      "notes": "",
+      "position": {
+        "lat": "34.75588905332129",
+        "lng": "10.782130895160723"
+      },
+      "id": 73930464
+    },
+    {
+      "cityName": "Tripoli",
+      "country": "Libya",
+      "date": "2023-10-03T07:58:59.626Z",
+      "notes": "",
+      "position": {
+        "lat": "32.853918541409755",
+        "lng": "13.125275982626968"
+      },
+      "id": 73930465
+    },
+    {
+      "cityName": "Port Said",
+      "country": "Egypt",
+      "date": "2023-10-03T07:59:07.666Z",
+      "notes": "",
+      "position": {
+        "lat": "31.24838012455772",
+        "lng": "32.29895065173374"
+      },
+      "id": 73930466
+    },
+    {
+      "cityName": "Dumyat Al Gadida",
+      "country": "Egypt",
+      "date": "2023-10-03T07:59:13.674Z",
+      "notes": "",
+      "position": {
+        "lat": "31.442941103683314",
+        "lng": "31.725441543430904"
+      },
+      "id": 73930467
+    },
+    {
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "date": "2023-10-03T07:59:16.041Z",
+      "notes": "",
+      "position": {
+        "lat": "31.323427752373973",
+        "lng": "30.069499587862946"
+      },
+      "id": 73930468
+    },
+    {
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "date": "2023-10-03T07:59:19.914Z",
+      "notes": "",
+      "position": {
+        "lat": "31.182551830576696",
+        "lng": "29.896127236327292"
+      },
+      "id": 73930469
+    },
+    {
+      "cityName": "Karachi",
+      "country": "Pakistan",
+      "date": "2023-10-03T07:59:49.842Z",
+      "notes": "",
+      "position": {
+        "lat": "24.866692484960726",
+        "lng": "66.99343736550685"
+      },
+      "id": 73930470
+    },
+    {
+      "cityName": "Bushehr",
+      "country": "Iran (Islamic Republic of)",
+      "date": "2023-10-03T07:59:56.274Z",
+      "notes": "",
+      "position": {
+        "lat": "28.88314551825892",
+        "lng": "50.86746867952866"
+      },
+      "id": 73930471
+    },
+    {
+      "cityName": "Valletta",
+      "country": "Malta",
+      "date": "2023-10-03T08:01:39.363Z",
+      "notes": "",
+      "position": {
+        "lat": "35.901405180316246",
+        "lng": "14.522321203752051"
+      },
+      "id": 73930472
+    },
+    {
+      "cityName": "Ţarţus",
+      "country": "Syrian Arab Republic (the)",
+      "date": "2023-10-03T08:01:58.530Z",
+      "notes": "",
+      "position": {
+        "lat": "34.89292203066685",
+        "lng": "35.891575625619375"
+      },
+      "id": 73930473
+    },
+    {
+      "cityName": "Limassol",
+      "country": "Cyprus",
+      "date": "2023-10-03T08:02:04.138Z",
+      "notes": "",
+      "position": {
+        "lat": "34.64481296602891",
+        "lng": "33.011367219604445"
+      },
+      "id": 73930474
+    },
+    {
+      "cityName": "Abu Dhabi",
+      "country": "United Arab Emirates (the)",
+      "date": "2023-10-03T08:02:34.899Z",
+      "notes": "",
+      "position": {
+        "lat": "24.42494748802766",
+        "lng": "54.401589242635005"
+      },
+      "id": 73930475
+    },
+    {
+      "cityName": "Kuwait City",
+      "country": "Kuwait",
+      "date": "2023-10-03T08:02:44.746Z",
+      "notes": "",
+      "position": {
+        "lat": "29.34887710772215",
+        "lng": "47.957667558005625"
+      },
+      "id": 73930476
+    }
+  ]
+}
